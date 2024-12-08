@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/jerseyLayout">
+
+    <TextView
+        android:id="@+id/jerseyAppName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/app_name"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/jerseyImage"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_marginTop="15dp"
+        fresco:actualImageScaleType="fitCenter"/>
+
+    <TextView
+        android:id="@+id/jerseyTeam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:textStyle="bold|italic" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/jerseyLeague"
+            style="@style/style1"
+            android:text="@string/league"/>
+
+        <TextView
+            android:id="@+id/jerseyLeagueValue"
+            style="@style/style2"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/style5">
+
+        <TextView
+            android:id="@+id/jerseyGender"
+            style="@style/style1"
+            android:text="@string/gender" />
+
+        <TextView
+            android:id="@+id/jerseyGenderValue"
+            style="@style/style2" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/style5">
+
+        <TextView
+            android:id="@+id/jerseyMaterial"
+            style="@style/style1"
+            android:text="@string/material"/>
+
+        <TextView
+            android:id="@+id/jerseyMaterialValue"
+            style="@style/style2"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/style5">
+
+        <TextView
+            android:id="@+id/jerseyManufacturer"
+            style="@style/style1"
+            android:text="@string/manufacturer" />
+
+        <TextView
+            android:id="@+id/jerseyManufacturerValue"
+            style="@style/style2"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/jerseySize"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:text="@string/size"
+            android:textSize="21sp"
+            android:textStyle="bold" />
+
+        <RadioGroup
+            style="@style/style8">
+
+            <RadioButton
+                android:id="@+id/smallJerseySize"
+                style="@style/style7"
+                android:text="@string/smallSize" />
+
+            <RadioButton
+                android:id="@+id/mediumJerseySize"
+                style="@style/style7"
+                android:text="@string/mediumSize" />
+
+            <RadioButton
+                android:id="@+id/largeJerseySize"
+                style="@style/style7"
+                android:text="@string/largeSize" />
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/jerseyPrice"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:textSize="23sp"
+            android:textStyle="bold"
+            android:text="@string/price" />
+
+        <TextView
+            android:id="@+id/jerseyPriceValue"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:textSize="23sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/orderButton"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:onClick="sizeCheckup"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/cart" />
+
+</LinearLayout>

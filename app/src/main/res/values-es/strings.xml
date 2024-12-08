@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="project_name">ProyectoPlaftak</string>
+    <string name="app_name">Tienda de camisetas</string>
+    <string name="league">Liga:</string>
+    <string name="gender">Género:</string>
+    <string name="material">Material:</string>
+    <string name="manufacturer">Fabricante:</string>
+    <string name="jersey">jersey</string>
+    <string name="landOrientation">land</string>
+    <string name="portOrientation">port</string>
+    <string name="size">Tamaño:</string>
+    <string name="smallSize">S</string>
+    <string name="mediumSize">M</string>
+    <string name="largeSize">L</string>
+    <string name="yes">Eso</string>
+    <string name="no">No</string>
+    <string name="continuationCheck">Estas seguro que quieres continuar?</string>
+    <string name="price">Precio:</string>
+    <string name="accessingError">Error al acceder a los datos!</string>
+    <string name="appOrderChannel">appOrderChannel</string>
+    <string name="orderNotificationChannel">" Notificaciones de pedidos"</string>
+    <string name="messagingToken">Messaging token</string>
+    <string name="callText">" Llamanos"</string>
+    <string name="callButton">Botón de llamada</string>
+    <string name="callPermission">El permiso de llamada debe estar habilitado.</string>
+    <string name="phoneNumber">tel:0987654321</string>
+    <string name="jerseyCollection">" Nuestra colección de camisetas"</string>
+    <string name="grizzlies">Memphis Grizzlies</string>
+    <string name="apiUrl">http://192.168.75.1:45455/</string>
+    <string name="widgetJersey">widgetJersey</string>
+    <string name="widgetUpdate">widgetUpdate</string>
+    <string name="euroSymbol">€</string>
+    <string name="successfulOrder">" Camiseta ordenada con éxito"</string>
+    <string name="storeReturn">" Haga clic aquí para regresar a la tienda!"</string>
+    <string name="orderedJersey">orderedJersey</string>
+    <string name="promoNotificationChannel">" Notificaciones promocionales"</string>
+    <string name="appPromoChannel">appPromoChannel</string>
+    <string name="successfulOrderClick">" Haz clic para ver la camiseta!"</string>
+    <string name="broadcastJersey">broadcastJersey</string>
+    <string name="exclamationSymbol">!</string>
+</resources>

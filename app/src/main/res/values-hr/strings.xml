@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trgovina dresovima</string>
+    <string name="project_name">ProjektPlaftak</string>
+    <string name="league">Liga:</string>
+    <string name="gender">Spol:</string>
+    <string name="material">Materijal:</string>
+    <string name="manufacturer">Proizvođač:</string>
+    <string name="jersey">jersey</string>
+    <string name="landOrientation">land</string>
+    <string name="portOrientation">port</string>
+    <string name="size">Veličina:</string>
+    <string name="smallSize">S</string>
+    <string name="mediumSize">M</string>
+    <string name="largeSize">L</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="continuationCheck">Jeste li sigurni da želite nastaviti?</string>
+    <string name="price">Cijena:</string>
+    <string name="accessingError">Pogreška prilikom dohvata podataka!</string>
+    <string name="appOrderChannel">appOrderChannel</string>
+    <string name="orderNotificationChannel">Notifikacije narudžbe</string>
+    <string name="messagingToken">Messaging token</string>
+    <string name="callText">Nazovi Nas:</string>
+    <string name="callButton">Gumb za zvanje</string>
+    <string name="callPermission">Dozvola za pozivanje treba biti omogućena!</string>
+    <string name="phoneNumber">tel:0987654321</string>
+    <string name="jerseyCollection">Naša kolekcija dresova</string>
+    <string name="grizzlies">Memphis Grizzlies</string>
+    <string name="apiUrl">http://192.168.75.1:45455/</string>
+    <string name="widgetJersey">widgetJersey</string>
+    <string name="widgetUpdate">widgetUpdate</string>
+    <string name="euroSymbol">€</string>
+    <string name="successfulOrder">Uspješno naručen dres</string>
+    <string name="storeReturn">Klikni ovdje za povratak na trgovinu!</string>
+    <string name="orderedJersey">orderedJersey</string>
+    <string name="promoNotificationChannel">Promotivne notifikacije</string>
+    <string name="appPromoChannel">appPromoChannel</string>
+    <string name="successfulOrderClick">Klikni da pogledaš dres!</string>
+    <string name="broadcastJersey">broadcastJersey</string>
+    <string name="exclamationSymbol">!</string>
+</resources>
