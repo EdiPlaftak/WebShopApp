@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144170128555",
+    "project_id": "projektplaftak",
+    "storage_bucket": "projektplaftak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144170128555:android:0d1f423a36506893b993ee",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.projektplaftak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASSzToCXRNUmwyY9SV3dH8ogTZzMVwgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
