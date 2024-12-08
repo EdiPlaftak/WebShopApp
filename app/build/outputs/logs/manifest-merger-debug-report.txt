@@ -1,0 +1,667 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [androidx.databinding:viewbinding:8.5.0] C:\Users\edipl\.gradle\caches\transforms-4\f39636fe054d9e07bab48da1cf4ec0f2\transformed\viewbinding-8.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\edipl\.gradle\caches\transforms-4\5ffa852a86577d56b5f96426781611b3\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:17:1-66:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c096a4d4dbd6c9866d5cb1809b011e33\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\edipl\.gradle\caches\transforms-4\4e44a453d0149b94d69d40f686ce6f3d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\edipl\.gradle\caches\transforms-4\d7fb7b0fddd379307ff893e0e4744827\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\edipl\.gradle\caches\transforms-4\15d121cd145830f6b56e02e63ba8b974\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\5e99f6d09e6cc604da075145cd151cf9\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\edipl\.gradle\caches\transforms-4\bd33811ae48cb6449418958474f67bbf\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\edipl\.gradle\caches\transforms-4\3328c70c2e11ab24c93f7052ef2ece60\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\edipl\.gradle\caches\transforms-4\969378b1bb54a95faa2f0bb18308e6e1\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\edipl\.gradle\caches\transforms-4\29975e80807d4a12f91726177121cb2d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\edipl\.gradle\caches\transforms-4\58c4840468d7ba54eb56407212b0c8a0\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\edipl\.gradle\caches\transforms-4\1a7645eeea7fe94916db16d3a5a44deb\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\edipl\.gradle\caches\transforms-4\31f5a2a74eebcf2f541294b208fd06b9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\edipl\.gradle\caches\transforms-4\4b8e5458f304451ae06b6d9948d457de\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\edipl\.gradle\caches\transforms-4\4f7f16c5d6e331b743ee457b297d26a3\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\3319acf24aeda15fa350dff12e2d0ab4\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\31f498292049fcd05e83174d1e9ab8ae\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\74b397f0658ec11575c46be2f4bccfd6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\b1e67b459f0b2033f6c11a4a07f31bea\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\fae2bd3f7160458d38b73a6f7650a323\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8ac646d376f436e72ca0e6a9500f108e\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\2628b783ec8fc15a414fa5762ed9f7dc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\01f849363f376aa0ad54e75ec6c7874a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\8191b1675dc5a0a760509a19a6b2e733\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\0118ff824c82bced70d2b45c2c72e8ac\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c83c5b9bd5585581ef9d8f937e7783ba\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\8c23df315bc7a85a14864ed9a93c1af3\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\e7749585d1224d7394a672ce702791c3\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\edipl\.gradle\caches\transforms-4\131896efecdbf593464673ae353bb947\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\b6c325ff1c701da670b1184b8e541d41\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\5f9a658504d2562f3af825040b671933\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\437f75a81d4fc4b9b026751df6cb81a1\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\dc832b8b8f25bb344b5471387371003f\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\0ce4379aa880df2efc4cec13ff88b200\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\e0ab66f7be1b1c31cbd59c892555871e\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\b342c56fdb7212b1aba26abb1cff6726\transformed\fresco-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\edipl\.gradle\caches\transforms-4\c31efd9f550e7f0da0a08e46205710cd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\d55954ea183265daaf2e299446115a9a\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\f6a6732aa4957b628fb6d5594571bdfe\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\35a561d47e48c1ba449a08dcf09a7613\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\ba797eda8f59ffe965f01106fbade16e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\eb37f55a06e8671fb181e403bff9d9c2\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\556fdfde1670ba87d16584eb9e54c0a8\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\bf8e1f750214ee7cd4b62e834e85e36a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\29eac49fbf254c56acc0dbe376ccaeec\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\edipl\.gradle\caches\transforms-4\6024d9f8a400f10235e1f0ab6dd8f0c2\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\edipl\.gradle\caches\transforms-4\df01a2a803da018a99940cfb9d8c53b6\transformed\transport-api-3.1.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\28e37275a855fb2fed7d04f8399aa4bb\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\2ebcaec937fc1bc62626886ed3fe8665\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c60cca8b96988cc71c3dd75039f08b5b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\e99ebc7d86fa16f4ea0814d46a173f8f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\103ec73936ba3d17f358b69d05588485\transformed\soloader-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\aab59fdad91e80ccba14410599c93321\transformed\drawee-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\e78b95b4723f2c0b820de2dc0f0ef6ea\transformed\nativeimagefilters-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\2c569cee5862e00cf53a8fcb9cd40e3d\transformed\memory-type-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\3ba5ff95e6b2490bfe4a3238e0c83573\transformed\memory-type-java-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\27af266a3453678df9f3d9ea3c6b95d2\transformed\imagepipeline-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\5cf26c5328b6a78876d3a28e26803c58\transformed\memory-type-ashmem-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\1a7e983b25bc4055e96639008edadd73\transformed\imagepipeline-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\c12967aafa85a2827cec0278183cdae3\transformed\nativeimagetranscoder-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\edipl\.gradle\caches\transforms-4\d7582702c5104245927444e7082a8cf5\transformed\soloader-0.10.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\5a722e82adeff11b06127c2ce8e62e19\transformed\middleware-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\27dcccf5f51e5de74b1251a1cd26dfbd\transformed\ui-common-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\545f99cfc3e42caf1cf2165ae33ec2de\transformed\imagepipeline-base-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\f2ed2b6a420ba32e108120f07f7ab591\transformed\fbcore-2.6.0\AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.telephony
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:6:9-50
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:9:22-66
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:10:5-77
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:23:5-77
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:10:22-74
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:11:5-66
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:14:5-54:19
+INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:14:5-54:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\edipl\.gradle\caches\transforms-4\5ffa852a86577d56b5f96426781611b3\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\edipl\.gradle\caches\transforms-4\5ffa852a86577d56b5f96426781611b3\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c096a4d4dbd6c9866d5cb1809b011e33\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c096a4d4dbd6c9866d5cb1809b011e33\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\edipl\.gradle\caches\transforms-4\4e44a453d0149b94d69d40f686ce6f3d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\edipl\.gradle\caches\transforms-4\4e44a453d0149b94d69d40f686ce6f3d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\edipl\.gradle\caches\transforms-4\bd33811ae48cb6449418958474f67bbf\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\edipl\.gradle\caches\transforms-4\bd33811ae48cb6449418958474f67bbf\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\edipl\.gradle\caches\transforms-4\3328c70c2e11ab24c93f7052ef2ece60\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\edipl\.gradle\caches\transforms-4\3328c70c2e11ab24c93f7052ef2ece60\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\edipl\.gradle\caches\transforms-4\969378b1bb54a95faa2f0bb18308e6e1\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\edipl\.gradle\caches\transforms-4\969378b1bb54a95faa2f0bb18308e6e1\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\edipl\.gradle\caches\transforms-4\29975e80807d4a12f91726177121cb2d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\edipl\.gradle\caches\transforms-4\29975e80807d4a12f91726177121cb2d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\edipl\.gradle\caches\transforms-4\1a7645eeea7fe94916db16d3a5a44deb\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\edipl\.gradle\caches\transforms-4\1a7645eeea7fe94916db16d3a5a44deb\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\edipl\.gradle\caches\transforms-4\31f5a2a74eebcf2f541294b208fd06b9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\edipl\.gradle\caches\transforms-4\31f5a2a74eebcf2f541294b208fd06b9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\5f9a658504d2562f3af825040b671933\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\5f9a658504d2562f3af825040b671933\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\edipl\.gradle\caches\transforms-4\c31efd9f550e7f0da0a08e46205710cd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\edipl\.gradle\caches\transforms-4\c31efd9f550e7f0da0a08e46205710cd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\ba797eda8f59ffe965f01106fbade16e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\ba797eda8f59ffe965f01106fbade16e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\29eac49fbf254c56acc0dbe376ccaeec\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\29eac49fbf254c56acc0dbe376ccaeec\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\edipl\.gradle\caches\transforms-4\d7582702c5104245927444e7082a8cf5\transformed\soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\edipl\.gradle\caches\transforms-4\d7582702c5104245927444e7082a8cf5\transformed\soloader-0.10.1\AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:19:9-45
+	android:fullBackupContent
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:17:9-54
+	android:roundIcon
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:20:9-43
+	tools:targetApi
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:24:9-29
+	android:icon
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:18:9-38
+	android:allowBackup
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:23:9-40
+	android:dataExtractionRules
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:16:9-65
+	android:usesCleartextTraffic
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:22:9-44
+activity#hr.tvz.android.projektplaftak.controller.MainActivity
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:exported
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:26:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:31:27-74
+activity#hr.tvz.android.projektplaftak.controller.JerseyActivity
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:34:9-62
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:34:19-60
+receiver#hr.tvz.android.projektplaftak.controller.WidgetProvider
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:36:9-45:20
+	android:exported
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:37:13-54
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:39:13-41:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:40:17-83
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:40:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:42:13-44:58
+	android:resource
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:44:17-56
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:43:17-58
+service#hr.tvz.android.projektplaftak.model.AppFirebaseMessagingService
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:47:9-53:19
+	android:exported
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:48:13-62
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:50:13-52:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml:51:25-75
+uses-sdk
+INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.5.0] C:\Users\edipl\.gradle\caches\transforms-4\f39636fe054d9e07bab48da1cf4ec0f2\transformed\viewbinding-8.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.0] C:\Users\edipl\.gradle\caches\transforms-4\f39636fe054d9e07bab48da1cf4ec0f2\transformed\viewbinding-8.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\edipl\.gradle\caches\transforms-4\5ffa852a86577d56b5f96426781611b3\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\edipl\.gradle\caches\transforms-4\5ffa852a86577d56b5f96426781611b3\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c096a4d4dbd6c9866d5cb1809b011e33\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c096a4d4dbd6c9866d5cb1809b011e33\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\edipl\.gradle\caches\transforms-4\4e44a453d0149b94d69d40f686ce6f3d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\edipl\.gradle\caches\transforms-4\4e44a453d0149b94d69d40f686ce6f3d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\edipl\.gradle\caches\transforms-4\d7fb7b0fddd379307ff893e0e4744827\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\edipl\.gradle\caches\transforms-4\d7fb7b0fddd379307ff893e0e4744827\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\edipl\.gradle\caches\transforms-4\15d121cd145830f6b56e02e63ba8b974\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\edipl\.gradle\caches\transforms-4\15d121cd145830f6b56e02e63ba8b974\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\5e99f6d09e6cc604da075145cd151cf9\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\5e99f6d09e6cc604da075145cd151cf9\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\edipl\.gradle\caches\transforms-4\bd33811ae48cb6449418958474f67bbf\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\edipl\.gradle\caches\transforms-4\bd33811ae48cb6449418958474f67bbf\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\edipl\.gradle\caches\transforms-4\3328c70c2e11ab24c93f7052ef2ece60\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\edipl\.gradle\caches\transforms-4\3328c70c2e11ab24c93f7052ef2ece60\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\edipl\.gradle\caches\transforms-4\969378b1bb54a95faa2f0bb18308e6e1\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\edipl\.gradle\caches\transforms-4\969378b1bb54a95faa2f0bb18308e6e1\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\edipl\.gradle\caches\transforms-4\29975e80807d4a12f91726177121cb2d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\edipl\.gradle\caches\transforms-4\29975e80807d4a12f91726177121cb2d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\edipl\.gradle\caches\transforms-4\58c4840468d7ba54eb56407212b0c8a0\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\edipl\.gradle\caches\transforms-4\58c4840468d7ba54eb56407212b0c8a0\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\edipl\.gradle\caches\transforms-4\1a7645eeea7fe94916db16d3a5a44deb\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\edipl\.gradle\caches\transforms-4\1a7645eeea7fe94916db16d3a5a44deb\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\edipl\.gradle\caches\transforms-4\31f5a2a74eebcf2f541294b208fd06b9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\edipl\.gradle\caches\transforms-4\31f5a2a74eebcf2f541294b208fd06b9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\edipl\.gradle\caches\transforms-4\4b8e5458f304451ae06b6d9948d457de\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\edipl\.gradle\caches\transforms-4\4b8e5458f304451ae06b6d9948d457de\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\edipl\.gradle\caches\transforms-4\4f7f16c5d6e331b743ee457b297d26a3\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\edipl\.gradle\caches\transforms-4\4f7f16c5d6e331b743ee457b297d26a3\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\3319acf24aeda15fa350dff12e2d0ab4\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\3319acf24aeda15fa350dff12e2d0ab4\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\31f498292049fcd05e83174d1e9ab8ae\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\31f498292049fcd05e83174d1e9ab8ae\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\74b397f0658ec11575c46be2f4bccfd6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\74b397f0658ec11575c46be2f4bccfd6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\b1e67b459f0b2033f6c11a4a07f31bea\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\b1e67b459f0b2033f6c11a4a07f31bea\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\fae2bd3f7160458d38b73a6f7650a323\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\fae2bd3f7160458d38b73a6f7650a323\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8ac646d376f436e72ca0e6a9500f108e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8ac646d376f436e72ca0e6a9500f108e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\2628b783ec8fc15a414fa5762ed9f7dc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\2628b783ec8fc15a414fa5762ed9f7dc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\01f849363f376aa0ad54e75ec6c7874a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\01f849363f376aa0ad54e75ec6c7874a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\8191b1675dc5a0a760509a19a6b2e733\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\8191b1675dc5a0a760509a19a6b2e733\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\0118ff824c82bced70d2b45c2c72e8ac\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\0118ff824c82bced70d2b45c2c72e8ac\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c83c5b9bd5585581ef9d8f937e7783ba\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c83c5b9bd5585581ef9d8f937e7783ba\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\8c23df315bc7a85a14864ed9a93c1af3\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\8c23df315bc7a85a14864ed9a93c1af3\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\e7749585d1224d7394a672ce702791c3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\edipl\.gradle\caches\transforms-4\e7749585d1224d7394a672ce702791c3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\edipl\.gradle\caches\transforms-4\131896efecdbf593464673ae353bb947\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\edipl\.gradle\caches\transforms-4\131896efecdbf593464673ae353bb947\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\b6c325ff1c701da670b1184b8e541d41\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\b6c325ff1c701da670b1184b8e541d41\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\5f9a658504d2562f3af825040b671933\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\5f9a658504d2562f3af825040b671933\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\437f75a81d4fc4b9b026751df6cb81a1\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\437f75a81d4fc4b9b026751df6cb81a1\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\dc832b8b8f25bb344b5471387371003f\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\dc832b8b8f25bb344b5471387371003f\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\0ce4379aa880df2efc4cec13ff88b200\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\0ce4379aa880df2efc4cec13ff88b200\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\e0ab66f7be1b1c31cbd59c892555871e\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\e0ab66f7be1b1c31cbd59c892555871e\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\b342c56fdb7212b1aba26abb1cff6726\transformed\fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\b342c56fdb7212b1aba26abb1cff6726\transformed\fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\edipl\.gradle\caches\transforms-4\c31efd9f550e7f0da0a08e46205710cd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\edipl\.gradle\caches\transforms-4\c31efd9f550e7f0da0a08e46205710cd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\d55954ea183265daaf2e299446115a9a\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\d55954ea183265daaf2e299446115a9a\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\f6a6732aa4957b628fb6d5594571bdfe\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\f6a6732aa4957b628fb6d5594571bdfe\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\35a561d47e48c1ba449a08dcf09a7613\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\35a561d47e48c1ba449a08dcf09a7613\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\ba797eda8f59ffe965f01106fbade16e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\ba797eda8f59ffe965f01106fbade16e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\eb37f55a06e8671fb181e403bff9d9c2\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\eb37f55a06e8671fb181e403bff9d9c2\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\556fdfde1670ba87d16584eb9e54c0a8\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\556fdfde1670ba87d16584eb9e54c0a8\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\bf8e1f750214ee7cd4b62e834e85e36a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\bf8e1f750214ee7cd4b62e834e85e36a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\29eac49fbf254c56acc0dbe376ccaeec\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\29eac49fbf254c56acc0dbe376ccaeec\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\edipl\.gradle\caches\transforms-4\6024d9f8a400f10235e1f0ab6dd8f0c2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\edipl\.gradle\caches\transforms-4\6024d9f8a400f10235e1f0ab6dd8f0c2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\edipl\.gradle\caches\transforms-4\df01a2a803da018a99940cfb9d8c53b6\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\edipl\.gradle\caches\transforms-4\df01a2a803da018a99940cfb9d8c53b6\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\28e37275a855fb2fed7d04f8399aa4bb\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\28e37275a855fb2fed7d04f8399aa4bb\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\2ebcaec937fc1bc62626886ed3fe8665\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\2ebcaec937fc1bc62626886ed3fe8665\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c60cca8b96988cc71c3dd75039f08b5b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c60cca8b96988cc71c3dd75039f08b5b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\e99ebc7d86fa16f4ea0814d46a173f8f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\e99ebc7d86fa16f4ea0814d46a173f8f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\103ec73936ba3d17f358b69d05588485\transformed\soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\103ec73936ba3d17f358b69d05588485\transformed\soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\aab59fdad91e80ccba14410599c93321\transformed\drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\aab59fdad91e80ccba14410599c93321\transformed\drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\e78b95b4723f2c0b820de2dc0f0ef6ea\transformed\nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\e78b95b4723f2c0b820de2dc0f0ef6ea\transformed\nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\2c569cee5862e00cf53a8fcb9cd40e3d\transformed\memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\2c569cee5862e00cf53a8fcb9cd40e3d\transformed\memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\3ba5ff95e6b2490bfe4a3238e0c83573\transformed\memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\3ba5ff95e6b2490bfe4a3238e0c83573\transformed\memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\27af266a3453678df9f3d9ea3c6b95d2\transformed\imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\27af266a3453678df9f3d9ea3c6b95d2\transformed\imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\5cf26c5328b6a78876d3a28e26803c58\transformed\memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\5cf26c5328b6a78876d3a28e26803c58\transformed\memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\1a7e983b25bc4055e96639008edadd73\transformed\imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\1a7e983b25bc4055e96639008edadd73\transformed\imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\c12967aafa85a2827cec0278183cdae3\transformed\nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\c12967aafa85a2827cec0278183cdae3\transformed\nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\edipl\.gradle\caches\transforms-4\d7582702c5104245927444e7082a8cf5\transformed\soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\edipl\.gradle\caches\transforms-4\d7582702c5104245927444e7082a8cf5\transformed\soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\5a722e82adeff11b06127c2ce8e62e19\transformed\middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\5a722e82adeff11b06127c2ce8e62e19\transformed\middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\27dcccf5f51e5de74b1251a1cd26dfbd\transformed\ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\27dcccf5f51e5de74b1251a1cd26dfbd\transformed\ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\545f99cfc3e42caf1cf2165ae33ec2de\transformed\imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\545f99cfc3e42caf1cf2165ae33ec2de\transformed\imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\f2ed2b6a420ba32e108120f07f7ab591\transformed\fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\edipl\.gradle\caches\transforms-4\f2ed2b6a420ba32e108120f07f7ab591\transformed\fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\edipl\AndroidStudioProjects\ProjektPlaftak\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:23:9-29:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c096a4d4dbd6c9866d5cb1809b011e33\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c096a4d4dbd6c9866d5cb1809b011e33\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\edipl\.gradle\caches\transforms-4\c31efd9f550e7f0da0a08e46205710cd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\edipl\.gradle\caches\transforms-4\c31efd9f550e7f0da0a08e46205710cd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:25:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:24:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.ktx.FirebaseMessagingLegacyRegistrar
+ADDED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:26:13-28:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\31db3377d35c66a536c94736d72309f4\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:27:17-129
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\edipl\.gradle\caches\transforms-4\8e95a6a150204f3528508781f059888f\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:33:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:34:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:47:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\edipl\.gradle\caches\transforms-4\e356a7ad82fa79005f67740031727e06\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:61:17-119
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\edipl\.gradle\caches\transforms-4\dc090f325d820b19a9eb3a4cede66f56\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c096a4d4dbd6c9866d5cb1809b011e33\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c096a4d4dbd6c9866d5cb1809b011e33\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\c096a4d4dbd6c9866d5cb1809b011e33\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\edipl\.gradle\caches\transforms-4\bd33811ae48cb6449418958474f67bbf\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\edipl\.gradle\caches\transforms-4\bd33811ae48cb6449418958474f67bbf\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\edipl\.gradle\caches\transforms-4\bd33811ae48cb6449418958474f67bbf\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\edipl\.gradle\caches\transforms-4\bd33811ae48cb6449418958474f67bbf\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\edipl\.gradle\caches\transforms-4\6c27e6e668e51fe2264bfb65e25cc240\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\edipl\.gradle\caches\transforms-4\31f5a2a74eebcf2f541294b208fd06b9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\edipl\.gradle\caches\transforms-4\31f5a2a74eebcf2f541294b208fd06b9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\edipl\.gradle\caches\transforms-4\31f5a2a74eebcf2f541294b208fd06b9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\5f9a658504d2562f3af825040b671933\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\5f9a658504d2562f3af825040b671933\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\ba797eda8f59ffe965f01106fbade16e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\edipl\.gradle\caches\transforms-4\ba797eda8f59ffe965f01106fbade16e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\edipl\.gradle\caches\transforms-4\bacb3b2940b682668e002e435054c189\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#hr.tvz.android.projektplaftak.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#hr.tvz.android.projektplaftak.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\edipl\.gradle\caches\transforms-4\c84bb8ed51a2eb7ba7e2d8025fa5ad12\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\5f9a658504d2562f3af825040b671933\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\5f9a658504d2562f3af825040b671933\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\edipl\.gradle\caches\transforms-4\5f9a658504d2562f3af825040b671933\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\edipl\.gradle\caches\transforms-4\c31efd9f550e7f0da0a08e46205710cd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\edipl\.gradle\caches\transforms-4\c31efd9f550e7f0da0a08e46205710cd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\edipl\.gradle\caches\transforms-4\c31efd9f550e7f0da0a08e46205710cd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\1da022d5f723afb4df5586c4f9096d3f\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\edipl\.gradle\caches\transforms-4\003e3fe10666c5279c7ce909b90cafa7\transformed\transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\edipl\.gradle\caches\transforms-4\67b0fdec1a2ac4cfeef7dfd9c1ab9212\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
