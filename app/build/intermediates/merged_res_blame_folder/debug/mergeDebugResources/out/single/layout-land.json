@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\edipl\\.gradle\\daemon\\8.7\\hr.tvz.android.projektplaftak.app-mergeDebugResources-36:\\layout-land\\activity_main.xml",
+        "source": "C:\\Users\\edipl\\.gradle\\daemon\\8.7\\hr.tvz.android.projektplaftak.app-main-39:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "hr.tvz.android.projektplaftak.app-mergeDebugResources-36:/layout-land/activity_jersey.xml",
+        "source": "hr.tvz.android.projektplaftak.app-main-39:/layout-land/activity_jersey.xml"
+    },
+    {
+        "merged": "C:\\Users\\edipl\\.gradle\\daemon\\8.7\\hr.tvz.android.projektplaftak.app-mergeDebugResources-36:\\layout-land\\activity_jersey.xml",
+        "source": "C:\\Users\\edipl\\.gradle\\daemon\\8.7\\hr.tvz.android.projektplaftak.app-main-39:\\layout-land\\activity_jersey.xml"
+    }
+]
